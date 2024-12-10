@@ -1,2 +1,2 @@
-# prelim
-STAT 571 Research Prelim Exam
+# STAT 571 Research Prelim Exam
+
